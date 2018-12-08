@@ -1,3 +1,5 @@
 # Machine_learning
-This is a simple linear regression algorithm which predicts profit
-The code and data are provided.
+These are different types of machine learning models hand coded by me.
+
+
+To be honest, this repository is created just for my motivation to learn and not meant for you people.so, goodbye don't copy my code,go away...
